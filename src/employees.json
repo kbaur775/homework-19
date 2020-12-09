@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Bob Baker",
+    "occupation": "Cook",
+    "age": "48"
+  },
+  {
+    "id": 2,
+    "name": "Ted Baker",
+    "occupation": "Waiter",
+    "age": "22"
+  },
+  {
+    "id": 3,
+    "name": "Jim Halpert",
+    "occupation": "Cashier",
+    "age": "31"
+  },
+  {
+    "id": 4,
+    "name": "Sandeep Rajah",
+    "occupation": "Chef",
+    "age": "55"
+  },
+  {
+    "id": 5,
+    "name": "Xui Li",
+    "occupation": "Lawyer",
+    "age": "43"
+  },
+  {
+    "id": 6,
+    "name": "Aidos Okayev",
+    "occupation": "Host",
+    "age": "29"
+  },
+  {
+    "id": 7,
+    "name": "Matt Sera",
+    "occupation": "Waiter",
+    "age": "19"
+  }
+]
